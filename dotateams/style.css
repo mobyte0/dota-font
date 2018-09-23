@@ -1,0 +1,257 @@
+@font-face {
+  font-family: 'dotateams';
+  src:  url('fonts/dotateams.eot?dtj850');
+  src:  url('fonts/dotateams.eot?dtj850#iefix') format('embedded-opentype'),
+    url('fonts/dotateams.ttf?dtj850') format('truetype'),
+    url('fonts/dotateams.woff?dtj850') format('woff'),
+    url('fonts/dotateams.svg?dtj850#dotateams') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'dotateams' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-alphared:before {
+  content: "\41";
+}
+.icon-athleticoesports:before {
+  content: "\42";
+}
+.icon-boomid:before {
+  content: "\43";
+}
+.icon-clutchgamers:before {
+  content: "\44";
+}
+.icon-detonator:before {
+  content: "\45";
+}
+.icon-entitygaming:before {
+  content: "\46";
+}
+.icon-evosesports:before {
+  content: "\47";
+}
+.icon-execration:before {
+  content: "\48";
+}
+.icon-fnatic:before {
+  content: "\49";
+}
+.icon-happyfeet:before {
+  content: "\4a";
+}
+.icon-mineski:before {
+  content: "\4b";
+}
+.icon-resurgence:before {
+  content: "\4c";
+}
+.icon-rexregumqueon:before {
+  content: "\4d";
+}
+.icon-taskustitans:before {
+  content: "\4e";
+}
+.icon-teamflash:before {
+  content: "\e90e";
+}
+.icon-themongolz:before {
+  content: "\50";
+}
+.icon-theprimennd:before {
+  content: "\51";
+}
+.icon-tigers:before {
+  content: "\52";
+}
+.icon-tncpredator:before {
+  content: "\53";
+}
+.icon-braxstone:before {
+  content: "\54";
+}
+.icon-infamous:before {
+  content: "\55";
+}
+.icon-infamousyoung:before {
+  content: "\56";
+}
+.icon-intz:before {
+  content: "\57";
+}
+.icon-midas:before {
+  content: "\58";
+}
+.icon-paingaming:before {
+  content: "\59";
+}
+.icon-sgesports:before {
+  content: "\5a";
+}
+.icon-thunderpredator:before {
+  content: "\61";
+}
+.icon-wpgaming:before {
+  content: "\62";
+}
+.icon-dotageneric:before {
+  content: "\63";
+}
+.icon-complexitygaming:before {
+  content: "\64";
+}
+.icon-evilgeniuses:before {
+  content: "\65";
+}
+.icon-forwardgaming:before {
+  content: "\66";
+}
+.icon-opticgaming:before {
+  content: "\67";
+}
+.icon-alliance:before {
+  content: "\68";
+}
+.icon-burdenunited:before {
+  content: "\69";
+}
+.icon-helsinkireds:before {
+  content: "\6a";
+}
+.icon-letsdoit:before {
+  content: "\6b";
+}
+.icon-ninjasinpyjamas:before {
+  content: "\6c";
+}
+.icon-og:before {
+  content: "\6d";
+}
+.icon-singularityesports:before {
+  content: "\6e";
+}
+.icon-teamliquid:before {
+  content: "\6f";
+}
+.icon-teamsecret:before {
+  content: "\70";
+}
+.icon-thefinaltribe:before {
+  content: "\71";
+}
+.icon-windandrain:before {
+  content: "\72";
+}
+.icon-cavalry:before {
+  content: "\73";
+}
+.icon-cdec:before {
+  content: "\74";
+}
+.icon-echogaming:before {
+  content: "\75";
+}
+.icon-eclipse:before {
+  content: "\76";
+}
+.icon-ehome:before {
+  content: "\77";
+}
+.icon-ehomeimmortal:before {
+  content: "\78";
+}
+.icon-invictusgaming:before {
+  content: "\79";
+}
+.icon-keengaming:before {
+  content: "\7a";
+}
+.icon-keengamingluminous:before {
+  content: "\31";
+}
+.icon-lgd:before {
+  content: "\32";
+}
+.icon-lgdforeveryoung:before {
+  content: "\33";
+}
+.icon-mrgameboy:before {
+  content: "\34";
+}
+.icon-newbee:before {
+  content: "\35";
+}
+.icon-royalnevergiveup:before {
+  content: "\36";
+}
+.icon-sungaming:before {
+  content: "\37";
+}
+.icon-taichigaming:before {
+  content: "\38";
+}
+.icon-teamaster:before {
+  content: "\39";
+}
+.icon-teammax:before {
+  content: "\30";
+}
+.icon-teamserenity:before {
+  content: "\21";
+}
+.icon-vicigaming:before {
+  content: "\40";
+}
+.icon-doubledimension:before {
+  content: "\23";
+}
+.icon-elementspro:before {
+  content: "\24";
+}
+.icon-espada:before {
+  content: "\25";
+}
+.icon-fcdbesports:before {
+  content: "\5e";
+}
+.icon-megaladaesports:before {
+  content: "\26";
+}
+.icon-natusvincere:before {
+  content: "\2a";
+}
+.icon-odium:before {
+  content: "\28";
+}
+.icon-sftesports:before {
+  content: "\29";
+}
+.icon-teamempire:before {
+  content: "\60";
+}
+.icon-teamspirit:before {
+  content: "\7e";
+}
+.icon-vegasquadron:before {
+  content: "\2c";
+}
+.icon-virtuspro:before {
+  content: "\2e";
+}
+.icon-winstriketeam:before {
+  content: "\3f";
+}
